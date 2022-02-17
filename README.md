@@ -2,10 +2,11 @@
 - optional: create new repo in github
 - create new project mkdir in terminal 
 - touch js file
+- npm init
 - cd in and code .
-- npm init in terminal
-- require the npm you want to import in js file
+- .gitignore
 - use npm site to install code with command locally
+- require the npm you want to import in js file
 - tinker with it
 - nodemon to run it live
 - ctrl c to stop it 
