@@ -1,0 +1,12 @@
+## How To Set Up Node Project:
+- optional: create new repo in github
+- create new project mkdir in terminal 
+- touch js file
+- cd in and code .
+- npm init in terminal
+- require the npm you want to import in js file
+- use npm site to install code with command locally
+- tinker with it
+- nodemon to run it live
+- ctrl c to stop it 
+- repeat
